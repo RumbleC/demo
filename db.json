@@ -8,7 +8,13 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "/api/cmd/run": {
+    "code": "0"
+  },
+  "/api/cmd/watch": {
+    "code": "0"
+  },
+  "/api/cmd/stop": {
+    "code": "0"
   }
 }
