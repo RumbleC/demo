@@ -8,13 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "api/cmd/run": {
-    "code": "0"
-  },
-  "api/cmd/watch": {
-    "code": "0"
-  },
-  "api/cmd/stop": {
+  "run": {
     "code": "0"
   }
 }
